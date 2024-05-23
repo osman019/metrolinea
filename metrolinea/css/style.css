@@ -1,0 +1,77 @@
+*{
+      padding: 0px;  
+      margin: 0px;
+      box-sizing: border-box;
+}
+body{
+   background: linear-gradient(#FFFFFF,#E6E6E6,#808080);
+    width: 1600px;
+    height: 1200px;
+}
+
+
+img{
+    
+   
+}
+
+
+.contenedor{
+    margin-top: 200px;
+    margin-bottom: 20px;
+    border: 0.5px solid;
+    width: 1400px;
+    height: 900px;
+    margin-left: 250px;
+    background-color: #ffffff;
+}
+.texto{
+    text-align: end;
+    margin-left: 800px;
+    text-decoration: underline;
+    font-size: 30px;
+   
+}
+.texto2{
+    text-align: end;
+    margin-right: 30px;
+    font-size: 30px;
+    
+}
+.buscar{
+    width: 40px;
+
+}
+.contenedor2{
+    display: flex;
+}
+.metrolinea{
+    width: 900px;
+  
+}
+.tarjeta{
+    font-size: 40px;
+    margin-left: 100px;
+}
+.saldo{
+    font-size: 30px;
+    margin-left: 100px;
+}
+.cuadro{
+    margin-left: 1100px;
+}
+.Comprar{
+    font-size: 30px;
+    margin-left: 1128px;
+    margin-top: -70px;
+}
+.logo1{
+    margin-left: 1120px;
+   }
+   .container{
+    width: 150px;
+    height: 900px;
+    background-color: black;
+    margin-left: 1250px;
+    
+   }

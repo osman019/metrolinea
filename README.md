@@ -1,4 +1,4 @@
-# Metrolinea   
+# Metrolinea  💳
 
 Tarjeta virtual
 
@@ -10,6 +10,6 @@ En esta tarjeta virtual podras ver el saldo, comprar y ver informacion sobre la 
 - CSS
 - Recursos(imagenes)
 
- ## Acerca de
+ ## Acerca de 
 Taller desarrollado por Osman Johandry Ortiz Rolon
 - Informacion al (osmanortizrolon@gmail.com)
